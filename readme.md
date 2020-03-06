@@ -1,6 +1,6 @@
 **Library Management System:**
 
-** ** The Library Management system has supported the following operations are:
+ The Library Management system has supported the following operations are:
 
 1. Show the Data
 2. Search the Data based on BookName and Author Name
