@@ -17,7 +17,7 @@ We have used the following packages for this sample
 - **@material/react-card – for rendering in Card view**
 - **react-router-dom - for Routing**
 
-** ** Ensure the following are installed in your machine:
+ Ensure the following are installed in your machine:
 
 - Node JS
 - React
